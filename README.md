@@ -18,7 +18,6 @@ Linux için:
 
 ``` 
 cd kodluyoruzilkrepo
-
 code.
  ```
 
